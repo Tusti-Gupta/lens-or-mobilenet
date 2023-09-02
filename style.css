@@ -1,0 +1,20 @@
+.logo {
+    width: 50%;
+    height: auto;
+}
+
+#results {
+    width: 90%;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 0.8px;
+    border-style: solid;
+    margin: auto;
+    width: 800px;
+}
+
+#googleLensResults, #mobileNetResults, #objectName {
+    font-size: 18px;
+    font-family: Georgia;
+    color: whitesmoke;
+}
