@@ -13,8 +13,23 @@
     width: 800px;
 }
 
-#googleLensResults, #mobileNetResults, #objectName {
+#googleLensResults, #mobileNetResults, #objectName, #testResult {
     font-size: 18px;
     font-family: Georgia;
     color: whitesmoke;
+}
+
+p {
+    background-color: pink;
+    border: darkmagenta;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+    width: 70%;
+    color: white;
+    font-family: 'Syne Mono';
+    text-align: left;
+    padding: 20px;
+    font-size: 18px;
 }
